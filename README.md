@@ -1,7 +1,7 @@
 # Jot Thoughts
 
 ## Deployed Heroku Application Link
-https://jot-thougts.herokuapp.com/
+https://jot-thoughts.herokuapp.com/
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -25,7 +25,7 @@ https://jot-thougts.herokuapp.com/
 * Pull the Github repository to your local drive, open it in an IDE and enter "npm install express" in the terminal to install the express node modules in the root folder. Then enter NPM start in the terminal and open up a new browser and enter http://localhost:3001/ in the url.
 
 ## Usage Information
-* You can try out the app locally using the installation instructions above or test out the deployed application on Heroku with the URL https://jot-thougts.herokuapp.com/.
+* You can try out the app locally using the installation instructions above or test out the deployed application on Heroku with the URL https://jot-thoughts.herokuapp.com/.
 
 ## Contributor Guidelines
 * [Submit bugs and feature requests](https://github.com/joshsands/jot-thoughts/issues).
