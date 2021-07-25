@@ -14,18 +14,14 @@ app.get("/api/notes", (req, res) => {
   res.json(allNotes.slice(1));
 });
 
-// return index.html when user opens root/homepage
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "./Develop/public/index.html"));
-});
-
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, './Develop/public/index.html'));
-});
-
 // return the notes.html file when user clicks on get started button path to root/notes
 app.get("/notes", (req, res) => {
   res.sendFile(path.join(__dirname, "./Develop/public/notes.html"));
+});
+
+// return index.html when user opens root/homepage
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, './Develop/public/index.html'));
 });
 
 // creates a nee note and adds to array in db.json
