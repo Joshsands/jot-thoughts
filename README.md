@@ -1,2 +1,1 @@
-# jot-thoughts
-A quick note taker application
+# Note Taker Starter Code
