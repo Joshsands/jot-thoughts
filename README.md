@@ -30,7 +30,6 @@ https://jot-thougts.herokuapp.com/
 ## Contributor Guidelines
 * [Submit bugs and feature requests](https://github.com/joshsands/jot-thoughts/issues).
 * Review [source code changes](https://github.com/joshsands/jot-thoughts/pulls).
-* Review the [documentation](https://github.com/joshsands/jot-thoughts/docs) and make pull requests for anything from typos to new content.
 
 ## Test Instructions
 * None
